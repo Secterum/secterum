@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Shivam</h2>
+### Hi there 👋<h2> I'm Andres Del Fabro</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -6,11 +6,11 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring the world of information technology, which never ceases to fascinate me for its ability to solve problems of all kinds.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studied FullStack Web Development at the SoyHenry bootcamp.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Developing different projects to keep growing, and studying English.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
@@ -19,26 +19,16 @@
 <h3>🛠 Tech Stack</h3>
 
 
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 🛢 &nbsp; MySQL | MongoDB | postgreSQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
+- 🔧 &nbsp; Git | Notion | figma | 
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Typescript | ciberseguridad |
 
 <hr>
 
@@ -46,7 +36,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+[![Andres GitHub Stats](https://github-readme-stats.vercel.app/api?username=Secterum&show_icons=true)](https://github.com/Secterum)
 
 <br/>
 
@@ -72,22 +62,22 @@
 
 <p align="center">
 
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<!-- <a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a> -->
 
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/andres-delfabro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-andres-delfabro%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<!-- <a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a> -->
 
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:andresdelfabro99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andresdelfabro99@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
 
 
 
-
+<!-- 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
+ -->
 
 
 
