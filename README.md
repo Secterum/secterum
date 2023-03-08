@@ -19,7 +19,7 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | 
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJS
 
 - 🛢 &nbsp; MySQL | MongoDB | postgreSQL
 
